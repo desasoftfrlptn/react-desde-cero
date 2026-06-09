@@ -12,7 +12,7 @@ const root = createRoot(document.getElementById('root'));
 // -------------------------------------------------------------
 // Estas son variables JS comunes. No tienen nada de React
 // todavía. Las vamos a usar DENTRO del JSX.
-const nombre = 'Martina';
+const nombre = 'Desarrollo de Software - UTN FrLP - Turno Noche';
 const edad = 22;
 const hobbies = ['programar', 'mate', 'guitarra'];
 
